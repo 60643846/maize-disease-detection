@@ -19,10 +19,12 @@ pip install -r requirements.txt
 ```
 
 ## Running the Project
-Double-click `start_project.bat` or run:
+1. Open Command Prompt in the project folder
+2. Run:
 ```bash
 jupyter notebook
 ```
+3. Open the notebook file when it launches in your browser
 
 ## Project Structure
 ```
